@@ -7,7 +7,11 @@
 
 04. Tech Stack used:
 • HTML
+
 • CSS
+
 • React Js (JSX)
+
 • Material UI
+
 • Javascript
