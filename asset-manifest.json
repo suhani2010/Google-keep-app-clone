@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Google-keep-app-clone/static/css/main.fa2a9c0f.chunk.css",
+    "main.js": "/Google-keep-app-clone/static/js/main.c8518ff6.chunk.js",
+    "main.js.map": "/Google-keep-app-clone/static/js/main.c8518ff6.chunk.js.map",
+    "runtime-main.js": "/Google-keep-app-clone/static/js/runtime-main.74a0c4c0.js",
+    "runtime-main.js.map": "/Google-keep-app-clone/static/js/runtime-main.74a0c4c0.js.map",
+    "static/js/2.8e409647.chunk.js": "/Google-keep-app-clone/static/js/2.8e409647.chunk.js",
+    "static/js/2.8e409647.chunk.js.map": "/Google-keep-app-clone/static/js/2.8e409647.chunk.js.map",
+    "index.html": "/Google-keep-app-clone/index.html",
+    "static/css/main.fa2a9c0f.chunk.css.map": "/Google-keep-app-clone/static/css/main.fa2a9c0f.chunk.css.map",
+    "static/js/2.8e409647.chunk.js.LICENSE.txt": "/Google-keep-app-clone/static/js/2.8e409647.chunk.js.LICENSE.txt",
+    "static/media/logo.79957667.png": "/Google-keep-app-clone/static/media/logo.79957667.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74a0c4c0.js",
+    "static/js/2.8e409647.chunk.js",
+    "static/css/main.fa2a9c0f.chunk.css",
+    "static/js/main.c8518ff6.chunk.js"
+  ]
+}
